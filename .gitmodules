@@ -1,0 +1,3 @@
+[submodule "fairgraph"]
+	path = fairgraph
+	url = https://github.com/HumanBrainProject/fairgraph.git
